@@ -1212,7 +1212,7 @@
 // export default TakeAway;
 
 import React, { useEffect, useRef, useState } from 'react';
-import "./TakeAwayEdit.css"
+import "./takeAwayEdit.css"
 import { useParams } from 'react-router-dom';
 import Quanttity from '../../cards/QuantityCards/Quanttity';
 import FoodCard from '../../cards/FoodCards/FoodCard';
